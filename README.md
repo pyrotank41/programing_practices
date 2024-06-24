@@ -6,6 +6,7 @@ Welcome to my Programming Practices Guide. This document is a collection of meth
 
 1. [Negative Space Programming](#negative-space-programming)
 2. [Test-Driven Development (TDD)](#test-driven-development-tdd)
+3. [SOLID Principles](#SOLID-Principles)
 
 ## Negative Space Programming
 
@@ -18,6 +19,8 @@ Read more about **[Negative Space Programming](https://github.com/pyrotank41/pro
 Test-Driven Development (TDD) is an approach where I write tests before the actual code. This helps in early bug detection, defining clear requirements, providing refactoring confidence, and improving software design. Although it might not always be suitable during rapid development or R&D phases, incorporating TDD early helps manage technical debt effectively.
 
 Read more about **[Test-Driven Development (TDD)](https://github.com/pyrotank41/programing_practices/blob/main/test-driven-development.md)**
+
+## SOLID Principles
 
 ---
 
