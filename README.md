@@ -11,7 +11,7 @@ Welcome to my Programming Practices Guide. This document is a collection of meth
 
 Negative Space Programming is a defensive programming technique that I use to actively restrict inputs to a program or function. This ensures they adhere to specific constraints or requirements, helping to prevent invalid data from being processed and increasing code robustness.
 
-**[Read more about Negative Space Programming](negative_space_programming.md)**
+**[Read more about Negative Space Programming](https://github.com/pyrotank41/programing_practices/blob/main/negative_space_programing.md)**
 
 ## Test-Driven Development (TDD)
 
