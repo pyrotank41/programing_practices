@@ -11,13 +11,13 @@ Welcome to my Programming Practices Guide. This document is a collection of meth
 
 Negative Space Programming is a defensive programming technique that I use to actively restrict inputs to a program or function. This ensures they adhere to specific constraints or requirements, helping to prevent invalid data from being processed and increasing code robustness.
 
-**[Read more about Negative Space Programming](https://github.com/pyrotank41/programing_practices/blob/main/negative_space_programing.md)**
+Read more about **[Negative Space Programming](https://github.com/pyrotank41/programing_practices/blob/main/negative_space_programing.md)**
 
 ## Test-Driven Development (TDD)
 
 Test-Driven Development (TDD) is an approach where I write tests before the actual code. This helps in early bug detection, defining clear requirements, providing refactoring confidence, and improving software design. Although it might not always be suitable during rapid development or R&D phases, incorporating TDD early helps manage technical debt effectively.
 
-**[Read more about Test-Driven Development (TDD)](test_driven_development.md)**
+Read more about **[Test-Driven Development (TDD)](https://github.com/pyrotank41/programing_practices/blob/main/test-driven-development.md)**
 
 ---
 
